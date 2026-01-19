@@ -20,3 +20,25 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# Exports
+export/
+out/
+dist/
+
+# Secrets
+.env
+*.key
+*.pem
+*password*
